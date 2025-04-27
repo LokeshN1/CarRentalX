@@ -3,20 +3,16 @@
 
 CarRentalX is a console-based **Car Rental Management System** built in Java. It allows users to rent and return cars, manage customer records, and calculate rental costs dynamically. This project demonstrates the use of **OOP principles**, such as encapsulation and polymorphism, and implements **List-based collections** in Java.
 
-## 🚀 Features
+## Features
 
-- 🏎 **Rent a Car**: Customers can select a car and specify the rental duration.
-- 🔄 **Return a Car**: Allows users to return a rented vehicle.
-- 📊 **Dynamic Pricing**: Calculates rental costs based on the number of days.
-- ✅ **Car Availability Management**: Updates availability status when a car is rented or returned.
-- 📋 **Customer Management**: Automatically assigns customer IDs and stores rental records.
+- **Rent a Car**: Customers can select a car and specify the rental duration.
+- **Return a Car**: Allows users to return a rented vehicle.
+- **Dynamic Pricing**: Calculates rental costs based on the number of days.
+- **Car Availability Management**: Updates availability status when a car is rented or returned.
+- **Customer Management**: Automatically assigns customer IDs and stores rental records.
 
-## 🛠 Technologies Used
 
-- **Java** (Core Java, Collections, OOP)
-- **Scanner** (for user input handling)
-
-## 📌 Project Structure
+## Project Structure
 
 ```
 CarRentalX/
@@ -28,7 +24,7 @@ CarRentalX/
 │── README.md              # Documentation
 ```
 
-## 🎮 How to Run
+## How to Run
 
 1. **Clone the Repository**:
    ```sh
@@ -47,7 +43,7 @@ CarRentalX/
    java Main
    ```
 
-## 📸 Demo
+## Demo
 
 ```
 ===== Car Rental System =====
